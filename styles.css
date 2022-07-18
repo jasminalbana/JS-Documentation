@@ -3,7 +3,7 @@ body{
     margin: 0;
 }
 
-/*--------------Navigation bar------------------- please fix navbar and menu class*/
+/*--------------Navigation bar------------------- please fix navbar margin top*/
 .navbar{  
     list-style-type: none;
     border-right: 3px solid gray;
@@ -44,6 +44,10 @@ body{
 #navtitle{
     text-align: center;
 }
+
+
+/*-----------------Content-------------------*/
+
 
 #Introduction{
   border-top: 1px solid gray !important;
